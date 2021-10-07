@@ -1,0 +1,6 @@
+__pycache__
+.vscode/
+Credentials.py
+requirements.txt
+test.ipynb
+test.py
